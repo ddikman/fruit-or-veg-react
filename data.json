@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Avocado",
+    "latin": "Persea americana",
+    "type": "Fruit"
+  },
+  {
+    "name": "Bell pepper",
+    "latin": "Capsicum annuum",
+    "type": "Fruit"
+  },
+  {
+    "name": "Bitter melon Bitter gourd",
+    "latin": "Momordica charantia",
+    "type": "Fruit"
+  },
+  {
+    "name": "Chayote",
+    "latin": "Sechium edule",
+    "type": "Fruit"
+  },
+  {
+    "name": "Cucumber",
+    "latin": "Cucumis sativus",
+    "type": "Fruit"
+  },
+  {
+    "name": "Ivy gourd",
+    "latin": "Coccinia grandis",
+    "type": "Fruit"
+  },
+  {
+    "name": "Eggplant / Aubergine / Brinjal",
+    "latin": "Solanum melongena",
+    "type": "Fruit"
+  },
+  {
+    "name": "Luffa",
+    "latin": "Luffa cylindrica",
+    "type": "Fruit"
+  },
+  {
+    "name": "Olive fruit",
+    "latin": "Olea europaea",
+    "type": "Fruit"
+  },
+  {
+    "name": "Pumpkin",
+    "latin": "Cucurbita",
+    "type": "Fruit"
+  },
+  {
+    "name": "Squash",
+    "latin": "Cucurbita",
+    "type": "Fruit"
+  },
+  {
+    "name": "Sweet pepper",
+    "latin": "Capsicum annuum (grossum)",
+    "type": "Fruit"
+  },
+  {
+    "name": "Tinda",
+    "latin": "Praecitrullus fistulosus",
+    "type": "Fruit"
+  },
+  {
+    "name": "Tomatillo",
+    "latin": "Physalis philadelphica",
+    "type": "Fruit"
+  },
+  {
+    "name": "Tomato",
+    "latin": "Solanum lycopersicum",
+    "type": "Fruit"
+  },
+  {
+    "name": "Vanilla",
+    "latin": "Vanilla",
+    "type": "Fruit"
+  },
+  {
+    "name": "West Indian gherkin",
+    "latin": "Cucumis anguria",
+    "type": "Fruit"
+  },
+  {
+    "name": "Winter melon",
+    "latin": "Benincasa hispida",
+    "type": "Fruit"
+  },
+  {
+    "name": "Zucchini / Courgette / Marrow",
+    "latin": "Cucurbita pepo",
+    "type": "Fruit"
+  },
+  {
+    "name": "Broccolini (leaves / stalks)",
+    "latin": "Brassica oleracea",
+    "type": "Vegetable"
+  },
+  {
+    "name": "Brussels sprouts",
+    "latin": "Brassica oleracea (gemmifera)",
+    "type": "Vegetable"
+  },
+  {
+    "name": "Cabbage",
+    "latin": "Brassica oleracea (capitata)",
+    "type": "Vegetable"
+  },
+  {
+    "name": "Celery",
+    "latin": "Apium graveolens",
+    "type": "Vegetable"
+  },
+  {
+    "name": "Fluted pumpkin",
+    "latin": "Telfairia occidentalis",
+    "type": "Vegetable"
+  },
+  {
+    "name": "Broccoli",
+    "latin": "Brassica oleracea",
+    "type": "Vegetable"
+  },
+  {
+    "name": "Common bean",
+    "latin": "Phaseolus vulgaris",
+    "type": "Vegetable"
+  },
+  {
+    "name": "Caper",
+    "latin": "Capparis spinosa",
+    "type": "Vegetable"
+  },
+  {
+    "name": "Leek",
+    "latin": "Allium porrum",
+    "type": "Vegetable"
+  }
+]
